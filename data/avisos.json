@@ -1,0 +1,24 @@
+[
+    {
+        "id": "03e28edb-147d-4ec0-bdbb-14a98d7634e5",
+        "titulo": "COMBAVE",
+        "mensagem": "TESTE",
+        "autor": "CAMBAVE",
+        "destinatarios": [
+            "Todos"
+        ],
+        "tipo_destinatario": "Todos os Membros",
+        "data_envio": "2025-10-04 17:09:40.447074"
+    },
+    {
+        "id": "879c69e6-54fb-4a16-a292-59812b3e1d1a",
+        "titulo": "ACAMPADENTRO",
+        "mensagem": "http://localhost:8501/formulario_publico?id=58450c69-3176-4a0d-a6cd-dd401241919a\n\n\n",
+        "autor": "CONECT",
+        "destinatarios": [
+            "Todos"
+        ],
+        "tipo_destinatario": "Todos os Membros",
+        "data_envio": "2025-10-04 17:12:31.297863"
+    }
+]

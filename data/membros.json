@@ -1,0 +1,22 @@
+[
+    {
+        "id": "693a827a-bf29-4587-81f0-d36aaf6390bc",
+        "nome": "WENDEL CHARPINEL MACHADO DINIZ",
+        "cpf": "",
+        "rg": "",
+        "nascimento": "1977-02-09",
+        "funcao": "Lider",
+        "status": "Ativo",
+        "telefone": "21998849735",
+        "email": "wendelcharpinel@gmail.com",
+        "cep": "27998000",
+        "rua": "RUA JOSE FRAÇA DE ABREU",
+        "numero": "370",
+        "bairro": "APCC",
+        "cidade": "Carapebus",
+        "estado": "RJ",
+        "observacoes": "CASADO COM TATIANA CHARPINEL",
+        "foto": "data/fotos_membros\\693a827a-bf29-4587-81f0-d36aaf6390bc.jpeg",
+        "cadastrado_em": "2025-10-04 17:07:23.857818"
+    }
+]
